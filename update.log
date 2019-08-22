@@ -433,3 +433,67 @@ Branch master set up to track remote branch master from origin.
 已生成mysql文件
 删除超过两个月的sql
 Already up-to-date.
+[master 9d697e1] update sql
+ 55 files changed, 126 insertions(+), 19354 deletions(-)
+ delete mode 100644 practice_20190421_182501.sql
+ delete mode 100644 practice_20190422_182501.sql
+ delete mode 100644 practice_20190423_182501.sql
+ delete mode 100644 practice_20190424_182501.sql
+ delete mode 100644 practice_20190425_182501.sql
+ delete mode 100644 practice_20190426_182501.sql
+ delete mode 100644 practice_20190427_182501.sql
+ delete mode 100644 practice_20190428_182501.sql
+ delete mode 100644 practice_20190429_182501.sql
+ delete mode 100644 practice_20190430_182501.sql
+ delete mode 100644 practice_20190502_182501.sql
+ delete mode 100644 practice_20190503_182501.sql
+ delete mode 100644 practice_20190504_182501.sql
+ delete mode 100644 practice_20190505_182501.sql
+ delete mode 100644 practice_20190506_182501.sql
+ delete mode 100644 practice_20190507_182501.sql
+ delete mode 100644 practice_20190508_182501.sql
+ delete mode 100644 practice_20190509_182501.sql
+ delete mode 100644 practice_20190510_182501.sql
+ delete mode 100644 practice_20190511_182501.sql
+ delete mode 100644 practice_20190512_182501.sql
+ delete mode 100644 practice_20190513_182501.sql
+ delete mode 100644 practice_20190514_182501.sql
+ delete mode 100644 practice_20190515_182501.sql
+ delete mode 100644 practice_20190516_182501.sql
+ delete mode 100644 practice_20190517_182501.sql
+ delete mode 100644 practice_20190518_182501.sql
+ delete mode 100644 practice_20190519_182501.sql
+ delete mode 100644 practice_20190520_182501.sql
+ delete mode 100644 practice_20190521_182501.sql
+ delete mode 100644 practice_20190522_182501.sql
+ delete mode 100644 practice_20190523_182501.sql
+ delete mode 100644 practice_20190524_182501.sql
+ delete mode 100644 practice_20190525_182501.sql
+ delete mode 100644 practice_20190526_182501.sql
+ delete mode 100644 practice_20190527_182501.sql
+ delete mode 100644 practice_20190528_182501.sql
+ delete mode 100644 practice_20190529_182501.sql
+ delete mode 100644 practice_20190530_182501.sql
+ delete mode 100644 practice_20190531_182501.sql
+ delete mode 100644 practice_20190601_182501.sql
+ delete mode 100644 practice_20190602_182501.sql
+ delete mode 100644 practice_20190603_182501.sql
+ delete mode 100644 practice_20190604_182501.sql
+ delete mode 100644 practice_20190605_182501.sql
+ delete mode 100644 practice_20190606_182501.sql
+ delete mode 100644 practice_20190607_182501.sql
+ delete mode 100644 practice_20190608_182501.sql
+ delete mode 100644 practice_20190609_182501.sql
+ delete mode 100644 practice_20190610_182501.sql
+ delete mode 100644 practice_20190611_182501.sql
+ delete mode 100644 practice_20190612_174710.sql
+ delete mode 100644 practice_20190612_182501.sql
+ rename practice_20190501_182501.sql => practice_20190821_123401.sql (79%)
+To git@github.com:501658362/mysqlbackup.git
+   0a3d559..9d697e1  master -> master
+Branch master set up to track remote branch master from origin.
+开始执行脚本
+开始mysql文件
+已生成mysql文件
+删除超过两个月的sql
+Already up-to-date.
