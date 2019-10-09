@@ -1029,3 +1029,17 @@ Already up-to-date.
 已生成mysql文件
 删除超过两个月的sql
 Already up-to-date.
+[master 9ef24de] update sql
+ 5 files changed, 948 insertions(+), 1 deletion(-)
+ create mode 100644 practice_20191009_112455.sql
+ create mode 100644 practice_20191009_112510.sql
+ create mode 100644 practice_20191009_112632.sql
+To git@github.com:501658362/mysqlbackup.git
+   df0c89b..9ef24de  master -> master
+分支 master 设置为跟踪来自 origin 的远程分支 master。
+开始执行脚本
+开始mysql文件
+已生成mysql文件
+删除超过两个月的sql
+Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
+Already up-to-date.
