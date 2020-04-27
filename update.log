@@ -3399,3 +3399,49 @@ Branch master set up to track remote branch master from origin.
 已生成mysql文件
 删除超过两个月的sql
 Already up-to-date.
+开始执行脚本
+开始mysql文件
+已生成mysql文件
+删除超过两个月的sql
+Warning: Permanently added the RSA host key for IP address '140.82.113.3' to the list of known hosts.
+Already up-to-date.
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@izj6cipsvwcfjnudw7oimdz.(none)')
+Warning: Permanently added the RSA host key for IP address '140.82.114.4' to the list of known hosts.
+Everything up-to-date
+分支 master 设置为跟踪来自 origin 的远程分支 master。
+开始执行脚本
+开始mysql文件
+已生成mysql文件
+删除超过两个月的sql
+Already up-to-date.
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'root@izj6cipsvwcfjnudw7oimdz.(none)')
+Everything up-to-date
+分支 master 设置为跟踪来自 origin 的远程分支 master。
+开始执行脚本
+开始mysql文件
+已生成mysql文件
+删除超过两个月的sql
+Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
+Already up-to-date.
