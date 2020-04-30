@@ -3469,3 +3469,83 @@ Branch master set up to track remote branch master from origin.
 已生成mysql文件
 删除超过两个月的sql
 Already up-to-date.
+[master d96f32b] update sql
+ 70 files changed, 482 insertions(+)
+ mode change 100644 => 100755 code/firefox.log
+ mode change 100644 => 100755 practice_20200226_112901.sql
+ mode change 100644 => 100755 practice_20200227_112901.sql
+ mode change 100644 => 100755 practice_20200228_112901.sql
+ mode change 100644 => 100755 practice_20200229_112901.sql
+ mode change 100644 => 100755 practice_20200301_112901.sql
+ mode change 100644 => 100755 practice_20200302_112901.sql
+ mode change 100644 => 100755 practice_20200303_112901.sql
+ mode change 100644 => 100755 practice_20200304_112901.sql
+ mode change 100644 => 100755 practice_20200305_112901.sql
+ mode change 100644 => 100755 practice_20200306_112901.sql
+ mode change 100644 => 100755 practice_20200307_112901.sql
+ mode change 100644 => 100755 practice_20200308_112901.sql
+ mode change 100644 => 100755 practice_20200309_112901.sql
+ mode change 100644 => 100755 practice_20200310_112901.sql
+ mode change 100644 => 100755 practice_20200311_112901.sql
+ mode change 100644 => 100755 practice_20200312_112901.sql
+ mode change 100644 => 100755 practice_20200313_112901.sql
+ mode change 100644 => 100755 practice_20200314_112901.sql
+ mode change 100644 => 100755 practice_20200315_112901.sql
+ mode change 100644 => 100755 practice_20200316_112901.sql
+ mode change 100644 => 100755 practice_20200317_112901.sql
+ mode change 100644 => 100755 practice_20200318_112901.sql
+ mode change 100644 => 100755 practice_20200319_112901.sql
+ mode change 100644 => 100755 practice_20200320_112901.sql
+ mode change 100644 => 100755 practice_20200321_112901.sql
+ mode change 100644 => 100755 practice_20200322_112901.sql
+ mode change 100644 => 100755 practice_20200323_112901.sql
+ mode change 100644 => 100755 practice_20200324_112901.sql
+ mode change 100644 => 100755 practice_20200325_112901.sql
+ mode change 100644 => 100755 practice_20200326_112901.sql
+ mode change 100644 => 100755 practice_20200327_112901.sql
+ mode change 100644 => 100755 practice_20200328_112901.sql
+ mode change 100644 => 100755 practice_20200329_112901.sql
+ mode change 100644 => 100755 practice_20200330_112901.sql
+ mode change 100644 => 100755 practice_20200331_112901.sql
+ mode change 100644 => 100755 practice_20200401_112901.sql
+ mode change 100644 => 100755 practice_20200402_112901.sql
+ mode change 100644 => 100755 practice_20200403_112901.sql
+ mode change 100644 => 100755 practice_20200404_112901.sql
+ mode change 100644 => 100755 practice_20200405_112901.sql
+ mode change 100644 => 100755 practice_20200406_112901.sql
+ mode change 100644 => 100755 practice_20200407_112901.sql
+ mode change 100644 => 100755 practice_20200408_112901.sql
+ mode change 100644 => 100755 practice_20200409_112901.sql
+ mode change 100644 => 100755 practice_20200410_112901.sql
+ mode change 100644 => 100755 practice_20200411_112901.sql
+ mode change 100644 => 100755 practice_20200412_112901.sql
+ mode change 100644 => 100755 practice_20200413_112901.sql
+ mode change 100644 => 100755 practice_20200414_112901.sql
+ mode change 100644 => 100755 practice_20200415_112902.sql
+ mode change 100644 => 100755 practice_20200416_112901.sql
+ mode change 100644 => 100755 practice_20200417_112901.sql
+ mode change 100644 => 100755 practice_20200418_112901.sql
+ mode change 100644 => 100755 practice_20200419_112901.sql
+ mode change 100644 => 100755 practice_20200420_112901.sql
+ mode change 100644 => 100755 practice_20200421_112901.sql
+ mode change 100644 => 100755 practice_20200422_112901.sql
+ mode change 100644 => 100755 practice_20200423_112901.sql
+ mode change 100644 => 100755 practice_20200424_112901.sql
+ mode change 100644 => 100755 practice_20200425_112901.sql
+ mode change 100644 => 100755 practice_20200426_112901.sql
+ mode change 100644 => 100755 practice_20200427_112901.sql
+ mode change 100644 => 100755 practice_20200427_173553.sql
+ mode change 100644 => 100755 practice_20200427_173704.sql
+ mode change 100644 => 100755 practice_20200427_173759.sql
+ mode change 100644 => 100755 practice_20200428_112901.sql
+ create mode 100644 practice_20200429_112901.sql
+ mode change 100644 => 100755 ssl.key
+ mode change 100644 => 100755 update.log
+To git@github.com:501658362/mysqlbackup.git
+   d4da51c..d96f32b  master -> master
+Branch master set up to track remote branch master from origin.
+开始执行脚本
+开始mysql文件
+已生成mysql文件
+删除超过两个月的sql
+Already up-to-date.
