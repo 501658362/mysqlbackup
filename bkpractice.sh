@@ -2,7 +2,7 @@
 # xxxx
 echo '开始执行脚本' >> /root/mysqlbackup/update.log
 echo '开始mysql文件' >> /root/mysqlbackup/update.log
-mysqldump -uroot -p'501658362awe!@#' practice > /root/mysqlbackup/practice_$(date +%Y%m%d_%H%M%S).sql
+mysqldump -uroot -p'501658362awe' practice > /root/mysqlbackup/practice_$(date +%Y%m%d_%H%M%S).sql
 #mysqldump -uroot -proot practice  | gzip > /root/backup/mysql/practice_$(date +%Y%m%d_%H%M%S).sql.gz
 echo '已生成mysql文件' >> /root/mysqlbackup/update.log
 cd  /root/mysqlbackup/ 
