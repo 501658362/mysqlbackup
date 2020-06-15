@@ -3797,3 +3797,14 @@ Already up-to-date.
 删除超过两个月的sql
 Warning: Permanently added the RSA host key for IP address '140.82.113.4' to the list of known hosts.
 Already up-to-date.
+[master 53cccd4] update sql
+ 3 files changed, 478 insertions(+), 1 deletion(-)
+ create mode 100644 practice_20200615_025849.sql
+To git@github.com:501658362/mysqlbackup.git
+   5e8280c..53cccd4  master -> master
+Branch master set up to track remote branch master from origin.
+开始执行脚本
+开始mysql文件
+已生成mysql文件
+删除超过两个月的sql
+Already up-to-date.
