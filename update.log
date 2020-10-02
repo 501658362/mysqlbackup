@@ -5136,3 +5136,15 @@ Branch master set up to track remote branch master from origin.
 已生成mysql文件
 删除超过两个月的sql
 Already up-to-date.
+[master 9b8ec50] update sql
+ 2 files changed, 541 insertions(+)
+ create mode 100644 practice_20201001_123401.sql
+To git@github.com:501658362/mysqlbackup.git
+   a5c3436..9b8ec50  master -> master
+Branch master set up to track remote branch master from origin.
+开始执行脚本
+开始mysql文件
+已生成mysql文件
+删除超过两个月的sql
+Warning: Permanently added the RSA host key for IP address '52.69.186.44' to the list of known hosts.
+Already up-to-date.
