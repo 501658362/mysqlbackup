@@ -5148,3 +5148,17 @@ Branch master set up to track remote branch master from origin.
 删除超过两个月的sql
 Warning: Permanently added the RSA host key for IP address '52.69.186.44' to the list of known hosts.
 Already up-to-date.
+[master ae255a4] update sql
+ 4 files changed, 540 insertions(+), 1056 deletions(-)
+ delete mode 100644 practice_20200801_123401.sql
+ delete mode 100644 practice_20200802_123401.sql
+ create mode 100644 practice_20201002_123401.sql
+To git@github.com:501658362/mysqlbackup.git
+   9b8ec50..ae255a4  master -> master
+Branch master set up to track remote branch master from origin.
+开始执行脚本
+开始mysql文件
+已生成mysql文件
+删除超过两个月的sql
+Warning: Permanently added the RSA host key for IP address '13.114.40.48' to the list of known hosts.
+Already up-to-date.
