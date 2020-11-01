@@ -5497,3 +5497,14 @@ Branch master set up to track remote branch master from origin.
 已生成mysql文件
 删除超过两个月的sql
 Already up-to-date.
+[master 05f09f6] update sql
+ 2 files changed, 540 insertions(+)
+ create mode 100644 practice_20201031_123401.sql
+To git@github.com:501658362/mysqlbackup.git
+   1393f96..05f09f6  master -> master
+Branch master set up to track remote branch master from origin.
+开始执行脚本
+开始mysql文件
+已生成mysql文件
+删除超过两个月的sql
+Already up-to-date.
